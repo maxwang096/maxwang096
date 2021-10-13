@@ -25,12 +25,12 @@ I have a big experience in working with United States, Canada, United Kingdom, a
 My working time is flexible and can work across clients' time zones.
 
 My Expertise:
-- 👉 Ruby 2+
-- 👉 Ruby on Rails 3+
-- 👉 PostgreSQL, MySQL
-- 👉 MongoDB, Redis, CouchDB
-- 👉 RSpec/TDD
-- 👉 Solidus, Spree, Sinatra
-- 👉 RabbitMQ
-- 👉 Sidekiq, Redis
+- 👉  Ruby 2+
+- 👉  Ruby on Rails 3+
+- 👉  PostgreSQL, MySQL
+- 👉  MongoDB, Redis, CouchDB
+- 👉  RSpec/TDD
+- 👉  Solidus, Spree, Sinatra
+- 👉  RabbitMQ
+- 👉  Sidekiq, Redis
 - 👉 Jets
