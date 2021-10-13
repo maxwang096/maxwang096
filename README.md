@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 
 I have been working as a senior Ruby on Rails developer for 6 years since 2016.
 
-➤ I always write clean and well-documented code.
-➤ I value teamwork and collaboration.
-➤ I am a better thinker, innovator, and problem solver.
+- ➤ I always write clean and well-documented code.
+- ➤ I value teamwork and collaboration.
+- ➤ I am a better thinker, innovator, and problem solver.
 
 I have a big experience in working with United States, Canada, United Kingdom, and European clients.
 My working time is flexible and can work across clients' time zones.
 
 My Expertise:
-👉 Ruby 2+
-👉 Ruby on Rails 3+
-👉 PostgreSQL, MySQL
-👉 MongoDB, Redis, CouchDB
-👉 RSpec/TDD
-👉 Solidus, Spree, Sinatra
-👉 RabbitMQ
-👉 Sidekiq, Redis
-👉 Jets
+- 👉 Ruby 2+
+- 👉 Ruby on Rails 3+
+- 👉 PostgreSQL, MySQL
+- 👉 MongoDB, Redis, CouchDB
+- 👉 RSpec/TDD
+- 👉 Solidus, Spree, Sinatra
+- 👉 RabbitMQ
+- 👉 Sidekiq, Redis
+- 👉 Jets
