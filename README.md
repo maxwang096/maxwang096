@@ -21,8 +21,6 @@ I have been working as a senior Ruby on Rails developer for 6 years since 2016.
 - ➤ I value teamwork and collaboration.
 - ➤ I am a better thinker, innovator, and problem solver.
 
-I have a big experience in working with United States, Canada, United Kingdom, and European clients.
-My working time is flexible and can work across clients' time zones.
 
 My Expertise:
 - 👉 Ruby 2+
