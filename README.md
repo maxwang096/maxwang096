@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**norioumata/norioumata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maxwang096/maxwang096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
