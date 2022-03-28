@@ -141,4 +141,5 @@ I am a seasoned Ruby on Rails developer for up to 4 years now.
   
 </details>
 
+## Statistics
 ![Profile views](https://gpvc.arturio.dev/maxwang096)
