@@ -1,8 +1,8 @@
 ## Hi there, I'm Max Wang! 👋
 
-I'm a passionate Ruby on Rails developer with 4 years of experience.
+I am a seasoned Ruby on Rails developer for up to 4 years now.
 
-## Where I've Been
+## Experience
 
 ### 2019-Prsent: [SponsorPulse](https://sponsorpulseimi.com) - Senior Ruby on Rails Engineer
 
