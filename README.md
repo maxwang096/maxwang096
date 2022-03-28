@@ -141,5 +141,4 @@ I am a seasoned Ruby on Rails developer for up to 4 years now.
   
 </details>
 
-## Statics
-![](https://hit.yhype.me/github/profile?user_id=49550016)
+![Profile views](https://gpvc.arturio.dev/maxwang096)
