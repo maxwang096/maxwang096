@@ -1,6 +1,6 @@
-## Hi there, I'm Remy Wang! 👋
+## Hi there, I'm Max Wang! 👋
 
-I'm a passionate Ruby on Rails developer with 6 years of experience.
+I'm a passionate Ruby on Rails developer with 4 years of experience.
 
 ## Where I've Been
 
